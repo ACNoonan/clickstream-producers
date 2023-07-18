@@ -32,7 +32,7 @@ payload = json.dumps({
 })
 
 headers = {
-  'X-Kafka-Lenses-Token': 'super:48af47fc-41ae-4c62-b12a-bd70e88df047',
+  'X-Kafka-Lenses-Token': 'ServiceAccount:Credentials',
   'Content-Type': 'application/json'
 }
 
